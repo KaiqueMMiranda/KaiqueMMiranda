@@ -2,6 +2,7 @@
 
 -👓Estudando HTML,CSS e JavaScript.<br>
 -🌱Contato: kaiquemirandasantoss@gmail.com
+-💻ITB Informatica para a Internet.
 
 <div>
 <picture>
