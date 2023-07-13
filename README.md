@@ -1,7 +1,7 @@
 ### Opa! Sou Kaique, adoro jogos e programação! 👀🐱‍👤
 
 -👓Estudando HTML,CSS e JavaScript.<br>
--🌱Contato: kaiquemirandasantoss@gmail.com
+-🌱Contato: kaiquemirandasantoss@gmail.com<br>
 -💻ITB Informatica para a Internet.
 
 <div>
